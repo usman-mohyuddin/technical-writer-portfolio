@@ -1,11 +1,11 @@
-# technical-writer-portfolio
+# writing-portfolio
 
 #### Hello,
 I am Usman Mohyuddin, a software developer who is passionate about learning and sharing new things through technical writing. In my articles, I aim to simplify complex technical concepts so that they are understandable to both beginners and experienced professionals. I believe that clear and concise technical writing promotes a vibrant community of learners and problem solvers.
 
 Thank you for visiting my portfolio, and I look forward to a productive and mutually beneficial exchange of ideas.! :handshake:
 
-Below, you will find my portfolio containing article links:
+Below, you will find my article's links:
 
 
 | Area | Title |
